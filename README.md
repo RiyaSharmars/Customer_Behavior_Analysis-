@@ -1,4 +1,4 @@
-#Customer-Segmentation-Business-Insights
+# Customer-Segmentation-Business-Insights
 Data Analytics Project showcasing Customer Behavior Analysis using Python , SQL and Power Bi .
 
 # 📊 Data Analytics Project – End-to-End Analysis & Dashboard
